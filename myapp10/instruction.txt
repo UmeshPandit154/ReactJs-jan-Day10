@@ -1,0 +1,42 @@
+A 
+
+    name,surname,address
+
+
+class A extends React.Component{
+           //1.
+          state={
+            //1. P:V
+            //2. Methods
+           
+          };
+
+          //2.
+      constructor(){
+         this.state = {
+           }
+       
+         }
+
+
+
+         //3.
+
+}
+
+
+
+Public/index.html
+
+src/index.js
+
+package.json
+
+cdn
+
+
+
+
+
+
+
